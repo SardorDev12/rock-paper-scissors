@@ -75,7 +75,8 @@ button {
 
   .again {
     right: 0;
-    top: 46%;
+    top: 41%;
+    height: 15vmin;
     width: 100vmin;
   }
 }
